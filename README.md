@@ -22,6 +22,9 @@ This is a simple Student/Product management system(using shopmart)that can:
 -Add new records(Create)
 -View all records in a table(Read)
 -Edit/Update a record(Update)
+##Screenshots
+screenshots showing the CRUD operations working are included inside the shopmart_week6 logbook.docx file in the repo,
+along with my weekly reflections
 -Delete a record(Delete)
 
 
